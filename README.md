@@ -1,7 +1,8 @@
 <div align="center">
 
-# DNS_RESOLER
+# DNS_RESOLVER
 </div>
+
 ![Logotype](./images/image.webp)
 
 ## Документация
